@@ -1,0 +1,40 @@
+/*
+Theme Name: Porto
+Theme URI: http://www.portotheme.com/wordpress/porto
+Author: SW-THEMES
+Author URI: http://www.portotheme.com/
+Description: Porto Responsive Wordpress + eCommerce Theme.
+Version: 4.4.4
+License: Commercial
+License URI: http://themeforest.net/licenses/regular_extended
+Tags: woocommerce, corporate, ecommerce, responsive, blue, black, green, white, light, dark, red, two-columns, three-columns, four-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: porto
+*/
+
+/*************** ADD YOUR CUSTOM CSS HERE  ***************/
+
+.bypostauthor {}
+#main-menu .mega-menu> li.menu-item > a  {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+.mega-menu ul.sub-menu {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+.mega-menu .narrow li.menu-item>a {
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+P{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+h4{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+#main-menu .mega-menu .popup li.menu-item a{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+#nav-panel .mobile-menu li{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}
+.mobile-menu accoding-menu{
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+}

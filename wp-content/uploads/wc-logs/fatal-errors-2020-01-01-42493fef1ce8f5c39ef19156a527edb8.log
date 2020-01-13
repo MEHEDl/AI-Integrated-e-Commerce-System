@@ -1,0 +1,2 @@
+2020-01-01T01:17:09+00:00 CRITICAL Allowed memory size of 41943040 bytes exhausted (tried to allocate 937984 bytes) in /home/eccentri/public_html/wp-content/themes/porto/inc/admin/theme_options.php on line 13
+

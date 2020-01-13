@@ -1,0 +1,8 @@
+2019-12-25T03:37:43+00:00 CRITICAL Allowed memory size of 33554432 bytes exhausted (tried to allocate 180224 bytes) in /home/eccentri/public_html/wp-content/plugins/jetpack/class.photon.php on line 540
+
+2019-12-25T11:20:25+00:00 CRITICAL Allowed memory size of 33554432 bytes exhausted (tried to allocate 270336 bytes) in /home/eccentri/public_html/wp-content/themes/porto/inc/functions/functions.php on line 4
+
+2019-12-25T13:09:00+00:00 CRITICAL Allowed memory size of 33554432 bytes exhausted (tried to allocate 266240 bytes) in /home/eccentri/public_html/wp-includes/formatting.php on line 3237
+
+2019-12-25T20:54:51+00:00 CRITICAL Allowed memory size of 33554432 bytes exhausted (tried to allocate 139264 bytes) in /home/eccentri/public_html/wp-includes/formatting.php on line 3262
+

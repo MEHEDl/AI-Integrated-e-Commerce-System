@@ -1,0 +1,6 @@
+2019-12-24T08:45:23+00:00 CRITICAL Allowed memory size of 33554432 bytes exhausted (tried to allocate 937984 bytes) in /home/eccentri/public_html/wp-content/themes/porto/inc/admin/theme_options.php on line 13
+
+2019-12-24T16:31:12+00:00 CRITICAL Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/eccentri/public_html/wp-content/plugins/woocommerce-gateway-paypal-express-checkout/includes/class-wc-gateway-ppec-checkout-handler.php on line 132
+
+2019-12-24T16:31:14+00:00 CRITICAL Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/eccentri/public_html/wp-includes/class-wp-hook.php on line 279
+

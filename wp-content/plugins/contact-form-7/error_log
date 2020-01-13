@@ -1,0 +1,4 @@
+[27-Dec-2019 10:59:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/eccentri/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eccentri/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

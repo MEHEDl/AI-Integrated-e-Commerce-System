@@ -1,0 +1,2 @@
+2019-12-16T23:31:36+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 20480 bytes) in /home/eccentri/public_html/wp-content/themes/porto/inc/admin/ReduxCore/inc/fields/typography/field_typography.php on line 1971
+
